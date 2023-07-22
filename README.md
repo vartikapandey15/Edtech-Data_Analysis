@@ -5,6 +5,7 @@ accelerating its growth by increasing the number of enrolled users.
 Therefore, you have been asked to analyse various aspects of customer acquisition to see the
 status of new users’ growth in your company. The insights you discover will help your business
 team in designing a better marketing strategy for your company.
+
 Expected Outcome
 1. Brainstorm and identify the right metrics and frame proper questions for analysis. Your
 analysis should help your :
